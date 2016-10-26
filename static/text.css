@@ -1,0 +1,36 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#wrapper{
+	width: 950px;
+	height: auto;
+	margin: auto;
+	text-align: center;
+}
+#theBox h3{
+	margin: 40px 0px 20px 0px;
+}
+#box {
+	width: 950px;
+	height: 500px;
+	border: 1px solid black;
+	text-align: left;
+	padding: 20px;
+}
+button{
+	display: block;
+	margin: 40px 0px auto auto;
+}
+.messages .lastp{
+	display: inline-block;
+	width: 780px;
+}
+.messages .firstp{
+	width: 125px;
+	display: inline-block;
+}
+.messages{
+	margin-top: 5px;
+}
+
